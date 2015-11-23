@@ -642,3 +642,8 @@ packages:
   conf: core
   maintainers:
   - hguemar@redhat.com
+- project: app-catalog-ui
+  name: openstack-app-catalog-ui
+  conf: lib
+  maintainers:
+  - kevin@efox.cc
